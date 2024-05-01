@@ -1,0 +1,520 @@
+[
+    {
+        "year": 1950,
+        "constructorChampionTeam": "Alfa Romeo",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Alfa Romeo",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1951,
+        "constructorChampionTeam": "Scuderia Ferrari",
+        "constructorChampionRunnerUpTeam": "Alfa Romeo",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Alfa Romeo"
+    },
+    {
+        "year": 1952,
+        "constructorChampionTeam": "Scuderia Ferrari",
+        "constructorChampionRunnerUpTeam": "Gordini",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Gordini"
+    },
+    {
+        "year": 1953,
+        "constructorChampionTeam": "Scuderia Ferrari",
+        "constructorChampionRunnerUpTeam": "Maserati",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Maserati"
+    },
+    {
+        "year": 1954,
+        "constructorChampionTeam": "Maserati",
+        "constructorChampionRunnerUpTeam": "Mercedes",
+        "constructorChampionTeamEngine": "Maserati",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 1955,
+        "constructorChampionTeam": "Scuderia Ferrari",
+        "constructorChampionRunnerUpTeam": "Maserati",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Maserati"
+    },
+    {
+        "year": 1956,
+        "constructorChampionTeam": "Scuderia Ferrari",
+        "constructorChampionRunnerUpTeam": "Maserati",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Maserati"
+    },
+    {
+        "year": 1957,
+        "constructorChampionTeam": "Maserati",
+        "constructorChampionRunnerUpTeam": "Vanwall",
+        "constructorChampionTeamEngine": "Maserati",
+        "constructorChampionRunnerUpTeamEngine": "Vanwall"
+    },
+    {
+        "year": 1958,
+        "constructorChampionTeam": "Vanwall",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Vanwall",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1959,
+        "constructorChampionTeam": "Cooper",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Climax",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1960,
+        "constructorChampionTeam": "Cooper",
+        "constructorChampionRunnerUpTeam": "BRM",
+        "constructorChampionTeamEngine": "Climax",
+        "constructorChampionRunnerUpTeamEngine": "BRM"
+    },
+    {
+        "year": 1961,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "Lotus",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Climax"
+    },
+    {
+        "year": 1962,
+        "constructorChampionTeam": "BRM",
+        "constructorChampionRunnerUpTeam": "Lotus",
+        "constructorChampionTeamEngine": "BRM",
+        "constructorChampionRunnerUpTeamEngine": "Climax"
+    },
+    {
+        "year": 1963,
+        "constructorChampionTeam": "Lotus",
+        "constructorChampionRunnerUpTeam": "BRM",
+        "constructorChampionTeamEngine": "Climax",
+        "constructorChampionRunnerUpTeamEngine": "BRM"
+    },
+    {
+        "year": 1964,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "BRM",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "BRM"
+    },
+    {
+        "year": 1965,
+        "constructorChampionTeam": "Lotus",
+        "constructorChampionRunnerUpTeam": "BRM",
+        "constructorChampionTeamEngine": "Climax",
+        "constructorChampionRunnerUpTeamEngine": "BRM"
+    },
+    {
+        "year": 1966,
+        "constructorChampionTeam": "Brabham",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Repco",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1967,
+        "constructorChampionTeam": "Brabham",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Repco",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1968,
+        "constructorChampionTeam": "Lotus",
+        "constructorChampionRunnerUpTeam": "Matra",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Matra"
+    },
+    {
+        "year": 1969,
+        "constructorChampionTeam": "Matra",
+        "constructorChampionRunnerUpTeam": "Lotus",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1970,
+        "constructorChampionTeam": "Lotus",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1971,
+        "constructorChampionTeam": "Tyrrell",
+        "constructorChampionRunnerUpTeam": "BRM",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "BRM"
+    },
+    {
+        "year": 1972,
+        "constructorChampionTeam": "Lotus",
+        "constructorChampionRunnerUpTeam": "Tyrrell",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Cosworth"
+    },
+    {
+        "year": 1973,
+        "constructorChampionTeam": "Lotus",
+        "constructorChampionRunnerUpTeam": "Tyrrell",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Cosworth"
+    },
+    {
+        "year": 1974,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1975,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "Brabham",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1976,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1977,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "Wolf",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1978,
+        "constructorChampionTeam": "Lotus",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1979,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "Williams",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1980,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "Brabham",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1981,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Ford",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1982,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1983,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "Renault",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Renault"
+    },
+    {
+        "year": 1984,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "TAG",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1985,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "TAG",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1986,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "TAG"
+    },
+    {
+        "year": 1987,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "TAG"
+    },
+    {
+        "year": 1988,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1989,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Williams",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "Renault"
+    },
+    {
+        "year": 1990,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1991,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Williams",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "Renault"
+    },
+    {
+        "year": 1992,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Honda"
+    },
+    {
+        "year": 1993,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1994,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "Benetton",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Ford"
+    },
+    {
+        "year": 1995,
+        "constructorChampionTeam": "Benetton",
+        "constructorChampionRunnerUpTeam": "Williams",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Renault"
+    },
+    {
+        "year": 1996,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1997,
+        "constructorChampionTeam": "Williams",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1998,
+        "constructorChampionTeam": "McLaren",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 1999,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2000,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2001,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2002,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "Williams",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "BMW"
+    },
+    {
+        "year": 2003,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "Williams",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "BMW"
+    },
+    {
+        "year": 2004,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "BAR",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Honda"
+    },
+    {
+        "year": 2005,
+        "constructorChampionTeam": "Renault",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2006,
+        "constructorChampionTeam": "Renault",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 2007,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "BMW Sauber",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "BMW"
+    },
+    {
+        "year": 2008,
+        "constructorChampionTeam": "Ferrari",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Ferrari",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2009,
+        "constructorChampionTeam": "Brawn GP",
+        "constructorChampionRunnerUpTeam": "Red Bull Racing",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Renault"
+    },
+    {
+        "year": 2010,
+        "constructorChampionTeam": "Red Bull Racing",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2011,
+        "constructorChampionTeam": "Red Bull Racing",
+        "constructorChampionRunnerUpTeam": "McLaren",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2012,
+        "constructorChampionTeam": "Red Bull Racing",
+        "constructorChampionRunnerUpTeam": "Scuderia Ferrari",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 2013,
+        "constructorChampionTeam": "Red Bull Racing",
+        "constructorChampionRunnerUpTeam": "Mercedes",
+        "constructorChampionTeamEngine": "Renault",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    },
+    {
+        "year": 2014,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Red Bull Racing",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Renault"
+    },
+    {
+        "year": 2015,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Scuderia Ferrari",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 2016,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Red Bull Racing",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "TAG Heuer"
+    },
+    {
+        "year": 2017,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Scuderia Ferrari",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 2018,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Scuderia Ferrari",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 2019,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Scuderia Ferrari",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 2020,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Red Bull Racing",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Honda"
+    },
+    {
+        "year": 2021,
+        "constructorChampionTeam": "Mercedes",
+        "constructorChampionRunnerUpTeam": "Red Bull Racing",
+        "constructorChampionTeamEngine": "Mercedes",
+        "constructorChampionRunnerUpTeamEngine": "Honda"
+    },
+    {
+        "year": 2022,
+        "constructorChampionTeam": "Red Bull Racing",
+        "constructorChampionRunnerUpTeam": "Ferrari",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "Ferrari"
+    },
+    {
+        "year": 2023,
+        "constructorChampionTeam": "Red Bull Racing",
+        "constructorChampionRunnerUpTeam": "Mercedes",
+        "constructorChampionTeamEngine": "Honda",
+        "constructorChampionRunnerUpTeamEngine": "Mercedes"
+    }
+]

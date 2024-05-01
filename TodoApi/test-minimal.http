@@ -1,0 +1,28 @@
+@Todo_Host = http://localhost:5044/min-api/todo
+@todoId = 5
+
+
+###
+
+GET {{Todo_Host}}/
+
+###
+POST {{Todo_Host}}/
+Content-Type: application/json
+
+{
+  "name": "task 8",
+  "iscomplete": false
+}
+
+###
+PUT {{Todo_Host}}/{{todoId}}
+Content-Type: application/json
+
+{
+  "name": "task 5",
+  "iscomplete": true
+}
+
+###
+DELETE {{Todo_Host}}/{{todoId}}

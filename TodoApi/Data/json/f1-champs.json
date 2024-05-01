@@ -1,0 +1,669 @@
+[
+    {
+        "year": 2023,
+        "driverChampion": "Max Verstappen",
+        "driverRunnerUp": "Charles Leclerc",
+        "teamChampion": "Red Bull Racing",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2022,
+        "driverChampion": "Max Verstappen",
+        "driverRunnerUp": "Lewis Hamilton",
+        "teamChampion": "Red Bull Racing",
+        "teamChampionRunnerUp": "Mercedes",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2021,
+        "driverChampion": "Max Verstappen",
+        "driverRunnerUp": "Lewis Hamilton",
+        "teamChampion": "Red Bull Racing",
+        "teamChampionRunnerUp": "Mercedes",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2020,
+        "driverChampion": "Lewis Hamilton",
+        "driverRunnerUp": "Valtteri Bottas",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Red Bull Racing",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Honda"
+    },
+    {
+        "year": 2019,
+        "driverChampion": "Lewis Hamilton",
+        "driverRunnerUp": "Valtteri Bottas",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2018,
+        "driverChampion": "Lewis Hamilton",
+        "driverRunnerUp": "Sebastian Vettel",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2017,
+        "driverChampion": "Lewis Hamilton",
+        "driverRunnerUp": "Sebastian Vettel",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2016,
+        "driverChampion": "Nico Rosberg",
+        "driverRunnerUp": "Lewis Hamilton",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Red Bull Racing",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2015,
+        "driverChampion": "Lewis Hamilton",
+        "driverRunnerUp": "Nico Rosberg",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2014,
+        "driverChampion": "Lewis Hamilton",
+        "driverRunnerUp": "Nico Rosberg",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Red Bull Racing",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Renault"
+    },
+    {
+        "year": 2013,
+        "driverChampion": "Sebastian Vettel",
+        "driverRunnerUp": "Fernando Alonso",
+        "teamChampion": "Red Bull Racing",
+        "teamChampionRunnerUp": "Mercedes",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2012,
+        "driverChampion": "Sebastian Vettel",
+        "driverRunnerUp": "Fernando Alonso",
+        "teamChampion": "Red Bull Racing",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2011,
+        "driverChampion": "Sebastian Vettel",
+        "driverRunnerUp": "Jenson Button",
+        "teamChampion": "Red Bull Racing",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2010,
+        "driverChampion": "Sebastian Vettel",
+        "driverRunnerUp": "Fernando Alonso",
+        "teamChampion": "Red Bull Racing",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2009,
+        "driverChampion": "Jenson Button",
+        "driverRunnerUp": "Sebastian Vettel",
+        "teamChampion": "Brawn GP",
+        "teamChampionRunnerUp": "Red Bull Racing",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Renault"
+    },
+    {
+        "year": 2008,
+        "driverChampion": "Lewis Hamilton",
+        "driverRunnerUp": "Felipe Massa",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2007,
+        "driverChampion": "Kimi Räikkönen",
+        "driverRunnerUp": "Lewis Hamilton",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2006,
+        "driverChampion": "Fernando Alonso",
+        "driverRunnerUp": "Michael Schumacher",
+        "teamChampion": "Renault",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 2005,
+        "driverChampion": "Fernando Alonso",
+        "driverRunnerUp": "Kimi Räikkönen",
+        "teamChampion": "Renault",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2004,
+        "driverChampion": "Michael Schumacher",
+        "driverRunnerUp": "Rubens Barrichello",
+        "teamChampion": "Scuderia Ferrari",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "BMW"
+    },
+    {
+        "year": 2003,
+        "driverChampion": "Michael Schumacher",
+        "driverRunnerUp": "Kimi Räikkönen",
+        "teamChampion": "Scuderia Ferrari",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2002,
+        "driverChampion": "Michael Schumacher",
+        "driverRunnerUp": "Rubens Barrichello",
+        "teamChampion": "Scuderia Ferrari",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "BMW"
+    },
+    {
+        "year": 2001,
+        "driverChampion": "Michael Schumacher",
+        "driverRunnerUp": "David Coulthard",
+        "teamChampion": "Scuderia Ferrari",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 2000,
+        "driverChampion": "Michael Schumacher",
+        "driverRunnerUp": "Mika Häkkinen",
+        "teamChampion": "Scuderia Ferrari",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Mercedes"
+    },
+    {
+        "year": 1999,
+        "driverChampion": "Mika Häkkinen",
+        "driverRunnerUp": "Eddie Irvine",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1998,
+        "driverChampion": "Mika Häkkinen",
+        "driverRunnerUp": "Michael Schumacher",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1997,
+        "driverChampion": "Jacques Villeneuve",
+        "driverRunnerUp": "Heinz-Harald Frentzen",
+        "teamChampion": "Williams",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1996,
+        "driverChampion": "Damon Hill",
+        "driverRunnerUp": "Jacques Villeneuve",
+        "teamChampion": "Williams",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1995,
+        "driverChampion": "Michael Schumacher",
+        "driverRunnerUp": "Damon Hill",
+        "teamChampion": "Benetton",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Renault"
+    },
+    {
+        "year": 1994,
+        "driverChampion": "Michael Schumacher",
+        "driverRunnerUp": "Damon Hill",
+        "teamChampion": "Benetton",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Renault"
+    },
+    {
+        "year": 1993,
+        "driverChampion": "Alain Prost",
+        "driverRunnerUp": "Ayrton Senna",
+        "teamChampion": "Williams",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Ford"
+    },
+    {
+        "year": 1992,
+        "driverChampion": "Nigel Mansell",
+        "driverRunnerUp": "Riccardo Patrese",
+        "teamChampion": "Williams",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Renault",
+        "engineChampionRunnerUp": "Honda"
+    },
+    {
+        "year": 1991,
+        "driverChampion": "Ayrton Senna",
+        "driverRunnerUp": "Nigel Mansell",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "Renault"
+    },
+    {
+        "year": 1990,
+        "driverChampion": "Ayrton Senna",
+        "driverRunnerUp": "Alain Prost",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1989,
+        "driverChampion": "Alain Prost",
+        "driverRunnerUp": "Ayrton Senna",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1988,
+        "driverChampion": "Ayrton Senna",
+        "driverRunnerUp": "Alain Prost",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1987,
+        "driverChampion": "Nelson Piquet",
+        "driverRunnerUp": "Nigel Mansell",
+        "teamChampion": "Williams",
+        "teamChampionRunnerUp": "McLaren",
+        "engineChampion": "Honda",
+        "engineChampionRunnerUp": "TAG"
+    },
+    {
+        "year": 1986,
+        "driverChampion": "Alain Prost",
+        "driverRunnerUp": "Nigel Mansell",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "TAG",
+        "engineChampionRunnerUp": "Honda"
+    },
+    {
+        "year": 1985,
+        "driverChampion": "Alain Prost",
+        "driverRunnerUp": "Michele Alboreto",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "TAG",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1984,
+        "driverChampion": "Niki Lauda",
+        "driverRunnerUp": "Alain Prost",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "TAG",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1983,
+        "driverChampion": "Nelson Piquet",
+        "driverRunnerUp": "Alain Prost",
+        "teamChampion": "Brabham",
+        "teamChampionRunnerUp": "Scuderia Ferrari",
+        "engineChampion": "BMW",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1982,
+        "driverChampion": "Keke Rosberg",
+        "driverRunnerUp": "Didier Pironi",
+        "teamChampion": "Williams",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Renault"
+    },
+    {
+        "year": 1981,
+        "driverChampion": "Nelson Piquet",
+        "driverRunnerUp": "Carlos Reutemann",
+        "teamChampion": "Brabham",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Ford"
+    },
+    {
+        "year": 1980,
+        "driverChampion": "Alan Jones",
+        "driverRunnerUp": "Nelson Piquet",
+        "teamChampion": "Williams",
+        "teamChampionRunnerUp": "Brabham",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Ford"
+    },
+    {
+        "year": 1979,
+        "driverChampion": "Jody Scheckter",
+        "driverRunnerUp": "Gilles Villeneuve",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "Williams",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Ford"
+    },
+    {
+        "year": 1978,
+        "driverChampion": "Mario Andretti",
+        "driverRunnerUp": "Ronnie Peterson",
+        "teamChampion": "Lotus",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1977,
+        "driverChampion": "Niki Lauda",
+        "driverRunnerUp": "Jody Scheckter",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "Wolf",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Ford"
+    },
+    {
+        "year": 1976,
+        "driverChampion": "James Hunt",
+        "driverRunnerUp": "Niki Lauda",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1975,
+        "driverChampion": "Niki Lauda",
+        "driverRunnerUp": "Emerson Fittipaldi",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "Brabham",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Ford"
+    },
+    {
+        "year": 1974,
+        "driverChampion": "Emerson Fittipaldi",
+        "driverRunnerUp": "Clay Regazzoni",
+        "teamChampion": "McLaren",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1973,
+        "driverChampion": "Jackie Stewart",
+        "driverRunnerUp": "Emerson Fittipaldi",
+        "teamChampion": "Lotus",
+        "teamChampionRunnerUp": "Tyrrell",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Cosworth"
+    },
+    {
+        "year": 1972,
+        "driverChampion": "Emerson Fittipaldi",
+        "driverRunnerUp": "Jackie Stewart",
+        "teamChampion": "Lotus",
+        "teamChampionRunnerUp": "Tyrrell",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Cosworth"
+    },
+    {
+        "year": 1971,
+        "driverChampion": "Jackie Stewart",
+        "driverRunnerUp": "Ronnie Peterson",
+        "teamChampion": "Tyrrell",
+        "teamChampionRunnerUp": "BRM",
+        "engineChampion": "Tyrrell",
+        "engineChampionRunnerUp": "BRM"
+    },
+    {
+        "year": 1970,
+        "driverChampion": "Jochen Rindt",
+        "driverRunnerUp": "Jackie Ickx",
+        "teamChampion": "Lotus",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Lotus",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1969,
+        "driverChampion": "Jackie Stewart",
+        "driverRunnerUp": "Jackie Ickx",
+        "teamChampion": "Matra",
+        "teamChampionRunnerUp": "Lotus",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Cosworth"
+    },
+    {
+        "year": 1968,
+        "driverChampion": "Graham Hill",
+        "driverRunnerUp": "Jackie Stewart",
+        "teamChampion": "Lotus",
+        "teamChampionRunnerUp": "Matra",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "Cosworth"
+    },
+    {
+        "year": 1967,
+        "driverChampion": "Denny Hulme",
+        "driverRunnerUp": "Jack Brabham",
+        "teamChampion": "Brabham",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Repco",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1966,
+        "driverChampion": "Jack Brabham",
+        "driverRunnerUp": "John Surtees",
+        "teamChampion": "Brabham",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Repco",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1965,
+        "driverChampion": "Jim Clark",
+        "driverRunnerUp": "Graham Hill",
+        "teamChampion": "Lotus",
+        "teamChampionRunnerUp": "BRM",
+        "engineChampion": "Ford",
+        "engineChampionRunnerUp": "BRM"
+    },
+    {
+        "year": 1964,
+        "driverChampion": "John Surtees",
+        "driverRunnerUp": "Graham Hill",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "BRM",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "BRM"
+    },
+    {
+        "year": 1963,
+        "driverChampion": "Jim Clark",
+        "driverRunnerUp": "Graham Hill",
+        "teamChampion": "Lotus",
+        "teamChampionRunnerUp": "BRM",
+        "engineChampion": "BRM",
+        "engineChampionRunnerUp": "BRM"
+    },
+    {
+        "year": 1962,
+        "driverChampion": "Graham Hill",
+        "driverRunnerUp": "Jim Clark",
+        "teamChampion": "BRM",
+        "teamChampionRunnerUp": "Lotus",
+        "engineChampion": "BRM",
+        "engineChampionRunnerUp": "BRM"
+    },
+    {
+        "year": 1961,
+        "driverChampion": "Phil Hill",
+        "driverRunnerUp": "Wolfgang von Trips",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "BRM",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "BRM"
+    },
+    {
+        "year": 1960,
+        "driverChampion": "Jack Brabham",
+        "driverRunnerUp": "Bruce McLaren",
+        "teamChampion": "Cooper",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Climax",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1959,
+        "driverChampion": "Jack Brabham",
+        "driverRunnerUp": "Tony Brooks",
+        "teamChampion": "Cooper",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Climax",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1958,
+        "driverChampion": "Mike Hawthorn",
+        "driverRunnerUp": "Stirling Moss",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "Vanwall",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Vanwall"
+    },
+    {
+        "year": 1957,
+        "driverChampion": "Juan Manuel Fangio",
+        "driverRunnerUp": "Stirling Moss",
+        "teamChampion": "Maserati",
+        "teamChampionRunnerUp": "Vanwall",
+        "engineChampion": "Maserati",
+        "engineChampionRunnerUp": "Vanwall"
+    },
+    {
+        "year": 1956,
+        "driverChampion": "Juan Manuel Fangio",
+        "driverRunnerUp": "Stirling Moss",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "Maserati",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Maserati"
+    },
+    {
+        "year": 1955,
+        "driverChampion": "Juan Manuel Fangio",
+        "driverRunnerUp": "Stirling Moss",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Maserati",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Maserati"
+    },
+    {
+        "year": 1954,
+        "driverChampion": "Juan Manuel Fangio",
+        "driverRunnerUp": "Froilán González",
+        "teamChampion": "Mercedes",
+        "teamChampionRunnerUp": "Maserati",
+        "engineChampion": "Mercedes",
+        "engineChampionRunnerUp": "Maserati"
+    },
+    {
+        "year": 1953,
+        "driverChampion": "Alberto Ascari",
+        "driverRunnerUp": "Juan Manuel Fangio",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "Maserati",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Maserati"
+    },
+    {
+        "year": 1952,
+        "driverChampion": "Alberto Ascari",
+        "driverRunnerUp": "Giuseppe Farina",
+        "teamChampion": "Ferrari",
+        "teamChampionRunnerUp": "Maserati",
+        "engineChampion": "Ferrari",
+        "engineChampionRunnerUp": "Maserati"
+    },
+    {
+        "year": 1951,
+        "driverChampion": "Juan Manuel Fangio",
+        "driverRunnerUp": "Alberto Ascari",
+        "teamChampion": "Alfa Romeo",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Alfa Romeo",
+        "engineChampionRunnerUp": "Ferrari"
+    },
+    {
+        "year": 1950,
+        "driverChampion": "Giuseppe Farina",
+        "driverRunnerUp": "Juan Manuel Fangio",
+        "teamChampion": "Alfa Romeo",
+        "teamChampionRunnerUp": "Ferrari",
+        "engineChampion": "Alfa Romeo",
+        "engineChampionRunnerUp": "Ferrari"
+    }
+
+]
