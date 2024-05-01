@@ -58,8 +58,5 @@ public static class TodoEndpoints
 
             return Results.NotFound();
         });
-
-
-
     }
 }

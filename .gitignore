@@ -5,7 +5,7 @@
 *.userprefs
 
 # local VS Code folder settings
-.vscode/*
+.vscode/
 
 # Build results
 [Dd]ebug/
