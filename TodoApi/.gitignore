@@ -3,7 +3,9 @@
 *.suo
 *.user
 *.userprefs
-*.vscode/
+
+# local VS Code folder settings
+.vscode/*
 
 # Build results
 [Dd]ebug/
